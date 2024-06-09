@@ -16,5 +16,4 @@ The dashboard will include data on the following points:
 People vaccinated: This could be broken down into two categories: fully vaccinated and partially vaccinated. Countrywise vaccinated: This could show the vaccination rate by country, as well as the number of people who have been vaccinated in each country. GDP per capita effects on vaccination: This could show how GDP per capita affects vaccination rates. For example, countries with higher GDP per capita may have higher vaccination rates. People vaccinated per hundred: This could show the vaccination rate per hundred people in each country. The dashboard will also include data on other factors that may affect vaccination rates, such as age, gender, race, ethnicity, and socioeconomic status.
 
 The dashboard will be updated on a regular basis to reflect the latest data. It will also be made available in multiple languages. The dashboard will be designed to be user-friendly and accessible to a wide audience.
-
 ![image](https://github.com/chitranshkumar9/Covid_Vaccine_Tracker/assets/105735020/eb8f4210-18ba-4245-889a-da7a16a19620)
